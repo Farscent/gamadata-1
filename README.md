@@ -71,7 +71,7 @@ Revisions to **Articles 8 and 47** were heavily criticized for weakening civil s
 | Data Cleaning | Clean and preprocess tweets | ✅ Done |
 | Sentiment Analysis | Classify tweets into sentiment categories | ✅ Done |
 | Visualization | Generate insights and graphs | ✅ Done |
-| Documentation | Create media & report assets | 🔲 In Progress |
+| Documentation | Create media & report assets | ✅ Done |
 
 ---
 
